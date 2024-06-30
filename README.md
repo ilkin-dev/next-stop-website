@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the Moving Company Web App, developed for NextStop. The app helps individuals and corporations move their belongings from one address to another, providing features like service booking, real-time tracking, and customer account management.
+This repository contains the source code for the Moving Company Web App, developed for RapidReloc. The app helps individuals and corporations move their belongings from one address to another, providing features like service booking, real-time tracking, and customer account management.
 
 ## Features
 
@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ilkin-dev/next-stop-website.git
+   git clone https://github.com/ilkin-dev/rapid-reloc-website.git
    cd next-stop-website
 
 2. **Install dependencies:**
